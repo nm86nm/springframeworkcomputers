@@ -1,0 +1,5 @@
+springframeworkcomputers/repo/ComputerRepo.class
+springframeworkcomputers/model/Computer.class
+springframeworkcomputers/Config.class
+springframeworkcomputers/service/ComputerService.class
+springframeworkcomputers/api/ComputerApi.class
